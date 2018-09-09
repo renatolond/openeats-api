@@ -79,5 +79,23 @@
             "slug": "thai", 
             "title": "Thai"
         }
+    },
+    {
+        "pk": 10,
+        "model": "recipe_groups.cuisine",
+        "fields": {
+            "author": 1,
+            "slug": "brazilian",
+            "title": "Brazilian"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "recipe_groups.cuisine",
+        "fields": {
+            "author": 1,
+            "slug": "moroccan",
+            "title": "Moroccan"
+        }
     }
 ]
